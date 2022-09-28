@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a junior DevOps engineer but i like programming.
-Proficient in Python and C# language. still learning JS, and PHP
+Proficient in Python and C# language. still learning JS, PHP and Azure
