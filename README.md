@@ -18,5 +18,5 @@
 <br />
 
 ##
-<img src="https://github-readme-stats.vercel.app/api?username=KamiSushi&theme=dark&show_icons=true" align="left" width=450>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamiSushi&theme=dark" align="top" width=350>
+<img src="https://github-readme-stats.vercel.app/api?username=KamiSushii&theme=dark&show_icons=true" align="left" width=450>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamiSushii&theme=dark" align="top" width=350>
