@@ -10,7 +10,8 @@
 
 <br />
 
-### My sociales:
+
+### My socials:
 
 [<img align="left" alt="KamiSushi | Discord" width="22px" height="22px" src="https://i.imgur.com/kDTIh7p.png" />](https://dsc.bio/KamiSushi)
 [<img align="left" alt="KamiSushi | Steam" width="22px" height="22px" src="https://i.imgur.com/1Z9as8z.png" />](https://steamcommunity.com/id/kami-sushi/)
